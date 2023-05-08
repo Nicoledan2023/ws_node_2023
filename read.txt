@@ -1,0 +1,5 @@
+npx express-generator --hbs --git
+npx npm-check-updates -u
+npm i
+npm i -s ws
+npm run dev
